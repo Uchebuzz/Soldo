@@ -17,3 +17,5 @@ Soldo is a pioneering fintech startup dedicated to revolutionizing the way busin
 Soldo's mission is to empower businesses with the tools they need to make smarter financial decisions. By combining cutting-edge technology with a user-friendly interface, Soldo is reshaping the landscape of business finance, helping companies thrive in an increasingly dynamic and competitive marketplace.
 
 For more information, visit [Soldo's official website](https://developer.soldo.com/)https://developer.soldo.com/).
+
+## 
